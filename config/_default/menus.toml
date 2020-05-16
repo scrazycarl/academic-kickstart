@@ -10,13 +10,18 @@
 
 [[main]]
   name = "Design Thinking Posts"
-  url = "#posts"
+  url = "DT_post/"
   weight = 20
 
 [[main]]
   name = "Data Analytics Projects"
   url = "#projects"
   weight = 30
+
+[[main]]
+  name = "Blog post"
+  url = "#blog_post"
+  weight = 50
 
 # [[main]]
 #  name = "Publications"
