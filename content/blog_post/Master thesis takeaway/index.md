@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Learning from my master thesis"
-subtitle: "A retrospective guide on how to make it better from a project management perspective"
+subtitle: "A retrospective guide on how to make my master thesis better from a project management perspective"
 summary: "Reflect on my working method and result from master thesis"
 authors: []
 tags: []
@@ -38,7 +38,7 @@ missed something crucial. However, when I tried to calm down and go through the 
 "great job", "well done" all the time.
 
  
-In retrospect, my thesis wasn't perfect. Somethings could be done differently. One the biggest reason that I received a low grade was : "He works hard and fast, but without a plan."
+In retrospect, my thesis wasn't perfect. Somethings could be done differently. One of the biggest reason that I received a low grade was : "He works hard and fast, but without a plan."
 Although I had a plan at that time, it turns out I still failed my thesis to my standard. 
 
 If I have a chance to do it differently, I would rethink it on the following aspect:
@@ -56,3 +56,19 @@ If I have a chance to do it differently, I would rethink it on the following asp
 6. Motivation source: find the motivation from within, not without
 
 
+# Have a plan and manange it correctly
+
+Right from the beginning of my thesis, I had a kickoff meeting with my supervisor about the thesis work. Except talking about technical details, the most important things they remind me was to have a plan to secure a success of my thesis. 
+
+And I did.
+
+I had weekly plans like the following
+
+![alt text]('./MT_overall.png' "Overall master thesis planning")
+
+The note of each week contains a summary from the previous week and a plan for this week:
+
+
+![alt text]('./MT_weekly_p1.png' "Weekly plan part one")
+
+![alt text]('./MT_weekly_p2.png' "Weekly plan part two")
