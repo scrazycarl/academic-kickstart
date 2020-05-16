@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Design Thinking Posts"
-  url = "DT_post/"
+  url = "https://incubechallenge.com/2018/11/14/incube-from-inside-how-it-all-started/"
   weight = 20
 
 [[main]]
@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Blog post"
-  url = "#blog_post"
+  url = "blog_post/"
   weight = 50
 
 # [[main]]
