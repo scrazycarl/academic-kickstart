@@ -46,15 +46,15 @@ And I did.
 
 I had weekly plans like the following
 
-<img src="./MT_overall.png" width="600" />
+<img src="./MT_overall.png" width="860" />
 
 The note of each week contains a summary from the previous week and a plan for this week:
 
 
-<img src="./MT_weekly_p1.png" width="600" />
+<img src="./MT_weekly_p1.png" width="860" />
 
 
-<img src="./MT_weekly_p2.png" width="600" />
+<img src="./MT_weekly_p2.png" width="860" />
 
 
 However, with all these plans implemented, **My supervisor still had the impression that I didn’t have a plan. It means something went wrong in the execution.** Having a plan doesn’t guarantee success. You need to be able to execute it, measure it, reflect on each week’s process, and improve on it.
