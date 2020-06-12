@@ -48,10 +48,10 @@ Before starting the work, I used an existing model, developed by the lab that I 
 
 1. Model the mercury emission scenario.
     1. An emission calculation model was developed by Ecosystem Design Lab. I use this to calculate global mercury emission.
-    2. **Comparison by visualisation** : I needed to reproduce a similar visualisation in R and compare it to original visualisation, without knowing what program or how the visualisation was generated in the reference.
+    2. **Comparison by visualization** : I needed to reproduce a similar visualization in R and compare it to original visualization, without knowing what program or how the visualization was generated in the reference.
 2. Propose mitigation strategy to reduce mercury pollution:
-    1. Propose strategy on a global scale to reduce global mercury emission and concentraiton.
-    2. **Compare the result by visualisation**
+    1. Propose strategy on a global scale to reduce global mercury emission and concentration.
+    2. **Compare the result by visualization**
 3. **Study the effect of mitigation strategy on a local scale**
     
 ## Result of the study 
@@ -63,9 +63,11 @@ Before starting the work, I used an existing model, developed by the lab that I 
 ### 1. Compare the reproduced visualization of data and graph
 
 Plot from reference: 
+
 <img src="./image_for_personal_post/AMAP_2050_dataset.JPG" width="856" />
 
 Plot from me:
+
 <img src="./image_for_personal_post/AirTGM_adapted_2010.png" width="856" />
 
 The original plot is probabaly generated in MATLAB. I used R to best mimic the visualisation to help me compare 
@@ -109,7 +111,7 @@ In this project, I mainly implemented the visualization scheme presented above. 
 
 The disadvantages are:
 
-1. The color scale used here is not necesarily color blind friendly.
+1. The color scale used here is not necessarily color blind friendly.
 2. Although the numerical changes are mapped to color changes, sometimes its not strong enough to produce or spot a color change.
 
 What's your opinion?
