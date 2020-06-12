@@ -27,9 +27,11 @@ date_format = "Jan 2006"
   description = """Delivering tutorial session for the course 'Fundamental of computer science for business studies'
   Responsibilities include
   
-  * Teaching
-  * Coding
-  * 
+* Presenting the tutorial sessions
+* Evaluate student's solution using testing program
+* Technology use:
+  > Python, Pytorch, Numpy, Pandas, Postman, REST API, etc 
+  
   """
 
 [[experience]]
@@ -42,15 +44,20 @@ date_format = "Jan 2006"
   description = """Facilitate students in the course of 'Urban Drainage Planning and Modeeling'
 * Technology use:
   > SWMM, MATLAB, R
+
 """
 
 [[experience]]
   title = "Research assistant"
-  company = "SparkLabs, Department of Mangement, Technology and Economics, ETH Zürich"
+  company = "SparkLabs, Department of Management, Technology and Economics, ETH Zürich"
   company_url = ""
   location = "Zürich, Switzerland"
   date_start = "2019-09-16"
   date_end = "2020-01-06"
-  description = """Market research and corporate training course development"""
+  description = """
+  * Conducted market research on the innovation scene in Zurich
+  * Developed corporate training models on the topic of Meeting Facilitation and Data Analytics
+  
+  """
 
 +++

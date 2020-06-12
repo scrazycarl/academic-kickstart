@@ -38,6 +38,25 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "Udemy"
+  organization_url = "https://www.udemy.com/"
+  title = "The Complete SQL BootCamp 2020: From Zero to Hero"
+  url = ""
+  certificate_url = "https://www.udemy.com/certificate/UC-08990b1c-ee2c-4b5b-8a5f-61965975cbb8/"
+  date_start = "2020-05-21"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Udemy"
+  organization_url = "https://www.udemy.com/"
+  title = "Project Management: Master Project Management - PMP/PMI"
+  url = ""
+  certificate_url = "https://www.udemy.com/certificate/UC-f69ef1eb-0ef5-4a0e-ac3b-01032fffa3be/"
+  date_start = "2020-05-21"
+  date_end = ""
+  description = ""
 +++
   
 <!-- [[item]]
