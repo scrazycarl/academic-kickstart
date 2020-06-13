@@ -5,7 +5,7 @@ title: "My Semester Project"
 subtitle: ""
 summary: "I analysed data from over 1000 coal fired power plant about their mercury emission and potential strategy to mitigate it."
 authors: []
-tags: []
+tags: ["Data Analytics"]
 categories: []
 date: 2020-05-04T11:23:33+02:00
 lastmod: 2020-05-04T11:23:33+02:00
