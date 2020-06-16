@@ -11,6 +11,8 @@ date: 2020-06-11T21:58:06+02:00
 lastmod: 2020-06-11T21:58:06+02:00
 featured: false
 draft: true
+reading_time: true  # Show estimated reading time?
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

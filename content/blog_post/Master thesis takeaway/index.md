@@ -6,11 +6,13 @@ subtitle: "A retrospective guide on how to make my master thesis better from a p
 summary: "Reflect on my working method and result from master thesis"
 authors: []
 tags: []
+reading_time: true
 categories: []
 date: 2020-05-12T23:03:34+02:00
 lastmod: 2020-05-12T23:03:34+02:00
 featured: false
 draft: false
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
