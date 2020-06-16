@@ -51,4 +51,4 @@ So how does design thinking actually work?
 
 ## Blank canvas to brilliant ideas: be open, test your assumption, be flexible
 
-
+The key to have a successful design thinking session is:
