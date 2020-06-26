@@ -4,7 +4,7 @@
 title: "Learning from my master thesis"
 subtitle: "A retrospective guide on how to make my master thesis better from a project management perspective"
 summary: "Reflect on my working method and result from master thesis"
-authors: []
+authors: ['Shirzart']
 tags: []
 reading_time: true
 categories: []

@@ -10,7 +10,7 @@ categories: []
 date: 2020-06-11T21:58:06+02:00
 lastmod: 2020-06-11T21:58:06+02:00
 featured: false
-draft: true
+draft: false
 reading_time: true  # Show estimated reading time?
 
 
@@ -33,7 +33,7 @@ Do you like wondering about big ideas from now and then, but don't know if it's 
 
 Sometimes, I also enjoy building things from scratch. Unlike the most geeky kids who started out with computer programming at early age, my earliest building projects were all kinds of Mini models that compose a great toy after being built. There was a time when a Japanese Anime about miniature 4WD was viral in Urumqi. I spent numerous evenings of my primary school days to build them. The joy of composing something that's working was unparalleled. I would easily spent 2 hours without thinking about anything else to try to finish the project.
 
-<img src="./Mini4WD_model" width="860" />
+<img src="./Mini4WD_model.jpg" width="860" />
 
 However, it was not very easy most of the time to combine those joys together. The joy of thinking wildly and the joy of making something happen. The mismatch between the magnificat scale of envision and the limited power of implementation without technology was the limiting factor.
 
@@ -53,4 +53,12 @@ So how does design thinking actually work?
 
 ## Blank canvas to brilliant ideas: be open, test your assumption, be flexible
 
-The key to have a successful design thinking session is:
+The key to have a successful design thinking session is to always be open to new ideas and be suspicious about the assumptions you make about the user. All these key elements are wrapped in an interactive session that is very well described by 2 diamond. Though there are different ways to represent the design thinking process, we developed this concept of 2 diamonds during InCube project. 
+
+<img src="./2_diamonds.png" width="860" />
+
+While the whole design thinking process breaks down into problem space and solution space, each spaces are made of a diverging process where you **brainstrom ideas and be open-minded** and a converging process where you **examine your assumptions** by using testing method such as rapid prototyping, etc. The key in the converging face is to be flexible and not fix your mind on an existing solutions. Moreover, the quality of diverging phase also set a tone of how innovative your solutions can be. The more open-minded you are, the more surprise you will find in the end.There are lot of techniques go into the process of testing and validating assumptions, which will not be discussed in detail here. 
+
+Nevertheless, the design thinking process is never a one time project. The whole process could be repeated iteratively for as many times as you need when time is not a problem. The real joy I find in the process is when I can be as wild as I want in brainstorming, while being as rigorous as I can achieve in testing the assumptions and developing solutions. There is intellectual joy hidden in the making of a great idea or MVP. 
+
+I guess this is why I love Design Thinking :)
