@@ -61,4 +61,4 @@ While the whole design thinking process breaks down into problem space and solut
 
 Nevertheless, the design thinking process is never a one time project. The whole process could be repeated iteratively for as many times as you need when time is not a problem. The real joy I find in the process is when I can be as wild as I want in brainstorming, while being as rigorous as I can achieve in testing the assumptions and developing solutions. There is intellectual joy hidden in the making of a great idea or MVP. 
 
-I guess this is why I love Design Thinking :)
+I guess this is why I :heart: Design Thinking :)
