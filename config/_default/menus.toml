@@ -9,7 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "Design Thinking Post"
+  name = "Personal Development Blog"
   url = "post/"
   weight = 20
 
@@ -18,10 +18,10 @@
   url = "#projects"
   weight = 30
 
-[[main]]
-  name = "Blog"
-  url = "blog/"
-  weight = 40
+#[[main]]
+#  name = "Blog"
+#  url = "blog/"
+#  weight = 40
 
 # [[main]]
 #  name = "Publications"

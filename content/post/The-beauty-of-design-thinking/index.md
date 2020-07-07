@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Why I loved design thinking and how to get into it"
 authors: ["Shirzart"]
 tags: ["Design Thinking"]
-categories: []
+categories: ["Design Thinking"]
 date: 2020-06-11T21:58:06+02:00
 lastmod: 2020-06-11T21:58:06+02:00
 featured: false
