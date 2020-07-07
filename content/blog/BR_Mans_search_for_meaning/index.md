@@ -2,15 +2,17 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Live a life with purpose "
-subtitle: 
+subtitle: "No matter what kind of life it is, it always have a purpose."
 summary: "The learnings from the book 'Man's' search for meaning"
 authors: ['Shirzart']
 tags: ['book review']
+reading_time: true
 categories: []
 date: 2020-07-06T21:11:48+02:00
 lastmod: 2020-07-06T21:11:48+02:00
 featured: false
 draft: false
+ 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -45,4 +47,3 @@ Seeing him overcoming all the psychological challenges gives the reader a sense 
 
 > Live as if you were living for the second time and had acted as wrongly the first time as you are about to act now.
 
-<img src="./cover_image.jpg" width="430" />

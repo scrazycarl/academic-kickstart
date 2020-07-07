@@ -1,5 +1,5 @@
 ---
-title: Design Thinking post
+title: Design Thinking Post
 
 # View.
 #   1 = List

@@ -13,6 +13,7 @@ lastmod: 2020-05-12T23:03:34+02:00
 featured: false
 draft: false
 
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -39,7 +40,7 @@ In retrospect, my thesis wasn’t perfect. Something could have been done differ
 
 If I had the chance to do it differently, I would rethink it on the following 6 aspects:
 
-# 1. Have a plan and manange it correctly
+# 1. Have a plan and manage it correctly
 
 At the beginning of my thesis, I had a kickoff meeting with my supervisor about the thesis work. Except for talking about technical details, the most important thing they told me was to have a plan to secure the success of my thesis.
 
@@ -51,12 +52,9 @@ I had weekly plans like the following:
 
 The note of each week contained a summary from the previous week and a plan for the current week:
 
-
 <img src="./MT_weekly_p1.png" width="860" />
 
-
 <img src="./MT_weekly_p2.png" width="860" />
-
 
 However, with all these plans implemented, **My supervisor still had the impression that I didn’t have a plan. It means something went wrong in my execution.** Having a plan doesn’t guarantee success. You need to be able to execute it, measure it, reflect on each week’s process, and improve on it.
 
