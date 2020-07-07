@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Live a life with purpose "
+title: "A life with purpose "
 subtitle: "No matter what kind of life it is, it always have a purpose."
 summary: "The learnings from the book 'Man's' search for meaning"
 authors: ['Shirzart']
