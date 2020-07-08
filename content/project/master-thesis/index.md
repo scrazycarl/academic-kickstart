@@ -42,3 +42,12 @@ url_video: ""
 slides: ""
 ---
  
+1. What is PCA?
+
+2. Mathematical foundation to apply PCA
+
+3. The error is correlated? What's next
+
+4. Why is the error correlated?
+
+5. Black box guessing: what kind of data transformation is applied here? 

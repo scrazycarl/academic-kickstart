@@ -5,7 +5,7 @@ title: "A life with purpose "
 subtitle: "No matter what kind of life it is, it always have a purpose."
 summary: "The learnings from the book 'Man's' search for meaning"
 authors: ['Shirzart']
-tags: ['book review']
+tags: ['blog']
 reading_time: true
 categories: []
 date: 2020-07-06T21:11:48+02:00

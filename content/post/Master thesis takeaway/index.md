@@ -5,7 +5,7 @@ title: "Learning from my master thesis"
 subtitle: "A retrospective guide on how to make my master thesis better from a project management perspective"
 summary: "Reflect on my working method and result from master thesis"
 authors: ['Shirzart']
-tags: []
+tags: ['blog','personal development']
 reading_time: true
 categories: []
 date: 2020-05-12T23:03:34+02:00
