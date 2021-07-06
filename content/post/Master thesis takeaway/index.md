@@ -68,7 +68,7 @@ If I could do my thesis again, I would manage it better using waterfall project 
 
 I graduated from one of the best universities in Europe, a place where they always encourage you to ask questions. As we all know, “There are no dumb questions”. While being curious and inquisitive will definitely help you in the class, when working on a project with supervisors, you need to keep a good balance.
 
-Entering my thesis work, I was determined reach the goal I had proposed when I started my thesis and to learn from it as much as I can. Through out my thesis progress, I was always trying to be communicative and ask questions to my supervisors about my progress, my working method and how should I improve. 
+Entering my thesis work, I was determined reach the goal I had proposed when I started my thesis and to learn from it as much as I can. Through out my thesis progress, I was always trying to be communicative and ask questions to my supervisors about my progress, my working method and how should I improve.
 
 However, these questions sometimes were not only about my thesis design and execution, but I also asked some technical trick in programming and algorithms to expand my knowledge. I thought this would leave a good impression.
 
@@ -78,11 +78,11 @@ If I could have done it one more time, I would restrain myself from asking quest
 
 # 3. Writing style and perfection 
 
-A great thesis comes with great academic writing skills. This might have been my weakest point throughout my thesis work. My department considers a good thesis to be no longer than 30 pages, not including the appendix. Some people chose to write a complex appendix to showcase all the results, while I chose to write a brief thesis and only put in relevant content to the appendix. 
+A great thesis comes with great academic writing skills. This might have been my weakest point throughout my thesis work. My department considers a good thesis to be no longer than 30 pages, not including the appendix. Some people chose to write a complex appendix to showcase all the results, while I chose to write a brief thesis and only put in relevant content to the appendix.
 
 Writing your thesis in a concise way was challenging. In the end, the content of my thesis was 26 pages. I went through 3 rounds of correction with my supervisors before the hand-in.
 
-However, a crucial mistake I made there was **adding or changing content the night before the submission**. 
+However, a crucial mistake I made there was **adding or changing content the night before the submission**.
 
 This ended up costing me a lot since many mistakes came from these last minute changes. I was just not confident enough to leave it and hand in the next day. For different people, it might work differently, but I had more than once experience that **changing the content in the last minute costs me more than the value brought by that change.**
 
@@ -94,7 +94,7 @@ Next time, when collaborating with a person who is going to grade me, I would de
 
 # 5. Motivation source: find the intrinsic motivation, not external stimulus
 
-While it might not too much room to discuss where the motivation should come from when you are doing aster thesis, since a grade will be given directly from the supervisors as an evaluation. You will inherently have a big motivation to please them. But the disadvantages of this mechanism are, you may stop to progress at a point that is enough to meet your supervisors' expectation, while most of the time, an excellent piece of work goes beyond expectations.
+While there may not be too much room to discuss where the motivation should come from when you are doing master thesis, since a grade will be given directly from the supervisors as an evaluation. You will inherently have a big motivation to please them. But the disadvantages of this mechanism are, you may stop to progress at a point that is enough to meet your supervisors' expectation, while most of the time, an excellent piece of work goes beyond expectations.
 
 Whenever possible, you should seek intrinsic motivation within yourself. You need to own your project, own your thesis, and your work by setting your goal, your expectation and motivate yourself with less external incentives but more with internal incentives. Only in this way, you won't rest at a sudo-perfect solution, but always pursuing a better result. Freeing yourself from other people’s expectations and instead striving to meet our own needs, would be the most independent long term motivation that drives us safe and far.
 
